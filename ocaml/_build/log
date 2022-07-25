@@ -1,0 +1,5 @@
+# dune init proj matrixOps
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/mycicle/git/distributedMatrixOperations/ocaml
+# Auto-detected concurrency: 10

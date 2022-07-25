@@ -1,0 +1,4 @@
+(executable
+ (public_name matrixOps)
+ (name main)
+ (libraries matrixOps))

@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/matrixOps/META"
+  "_build/install/default/lib/matrixOps/dune-package"
+  "_build/install/default/lib/matrixOps/opam"
+]
+bin: [
+  "_build/install/default/bin/matrixOps"
+]
